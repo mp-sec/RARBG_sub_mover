@@ -3,4 +3,4 @@ A simple script that moves subtitles put in the SUBS folder on a RARBG rip into 
 
 If you want to change this for your own PC, alter the cwd variable to have the path for the folder containing your media. 
 
-Additionally, FileBot is a program that can be downloaded from SourceForge to automate the renaming for me. I suggest the same to others. Different versions of the program can be found from this link: https://sourceforge.net/projects/filebot/files/filebot/. 
+Additionally, FileBot is a program that can be downloaded from SourceForge to automate the renaming for the subtitles file(s) and the video file for you. I suggest others to use it as well. Different versions of the program can be found from this link: https://sourceforge.net/projects/filebot/files/filebot/. 
